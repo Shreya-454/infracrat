@@ -4,7 +4,7 @@ import HowItWorks from '../components/homepage/HowItWorks'
 import Features from '../components/homepage/Features'
 import Pricing from '../components/homepage/Pricing'
 import Trust from '../components/homepage/Trust'
-import Coutries from '../components/homepage/Coutries'
+// import Coutries from '../components/homepage/Coutries'
 
 const Home = () => {
   return (
